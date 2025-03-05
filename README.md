@@ -1,3 +1,4 @@
+# Ethiopian Plasmodium falciparum Convergent Evolution of Artemisinin and Chloroquine Resistance
 Analysis of genomic data from raw fastq files
 
 Bed file with genomic locations of amplicons: intervals.bed
