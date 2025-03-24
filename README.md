@@ -1,5 +1,5 @@
-# Ethiopian Plasmodium falciparum Convergent Evolution of Artemisinin and Chloroquine Resistance
-Analysis of genomic data from raw fastq files
+
+Analysis of Plasmodium falciparum genomic data from raw fastq files
 
 Bed file with genomic locations of amplicons: [intervals.bed](https://github.com/leenvh/EMAGEN/blob/main/intervals.bed)<br />
 Mapping and variant calling of fastq files: [batch_pipeline.sh](https://github.com/leenvh/EMAGEN/blob/main/batch_pipeline.sh), [run_variant_calling.sh](https://github.com/leenvh/EMAGEN/blob/main/run_variant_calling.sh)<br />
