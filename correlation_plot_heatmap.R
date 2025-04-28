@@ -1,16 +1,19 @@
-# Load required packages
+
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+
+#required packages
 library(tidyverse)
 library(reshape2)
 library(ggtext)  
 library(scales)  
 
 #  data 
-dat_cor=readRDS("data/corr_data_output.rds")
+dat_cor=readRDS("corr_data_output.rds")
 
 # Convert  the data from wide to long format  and Add a tiered significance column based on p-value thresholds
 dat_cor_long <- dat_cor %>%
-  select(haplotype, pv_pf_rho, api_rho, pv_pf_p, api_p) %>%
-  melt(id.vars = c("haplotype", "pv_pf_p", "api_p")) %>%
+  select(haplotype, pv_pf_rho, api_rho, pv_pf_p, api_p,hap_freq) %>%
+  melt(id.vars = c("haplotype", "pv_pf_p", "api_p","hap_freq")) %>%
   mutate(
     signif = case_when(
       variable == "pv_pf_rho" & pv_pf_p < 0.001 ~ "***",
@@ -27,33 +30,55 @@ dat_cor_long <- dat_cor %>%
   )
 
 
+dat_cor_long$variable <- factor(dat_cor_long$variable, levels = c("API", "Pv proportion"))
+dat_cor_long$haplotype <- factor(dat_cor_long$haplotype, levels = rev(c(
+  "AIRNI",
+  "AICNI",
+  "ISGEAA",
+  "ISAKAA (WT)",
+  "AIRNI / ISGEAA",
+  "AICNI / ISGEAA",
+  "AICNI / ISAKAA",
+  "CVIET",
+  "CVMNK (WT)",
+  "NFSND"
+)))
+
+
 #  heatmap plot
-corr_plot <- ggplot(dat_cor_long, aes(x = variable, y = haplotype, fill = value)) +
-  geom_tile(color = "white") +
-  geom_text(aes(label = signif), color = "black", size = 5) +
+
+corr_plot <- ggplot(dat_cor_long, aes(x = variable, y = haplotype)) +
+  geom_point(aes(size = percentage, fill = value), shape = 21, color = "black", stroke = 0.5) +
+  geom_text(aes(label = signif), vjust = -0.9, size = 4, color = "black") +  # add significance stars above the bubbles
   scale_fill_gradient2(
-    low = "#E15759", 
-    mid = "white", 
-    high = "#59A14F",
-    limits = c(-1, 1), 
+    low = "#D73027",   # red
+    mid = "#FFFFBF",   # yellow/white
+    high = "#1A9850",  # green
+    midpoint = 0,
+    limits = c(-1, 1),
     name = expression(~rho)
   ) +
+  scale_size_continuous(
+    range = c(1, 10),   # size of bubbles
+    name = "Haplotype frequency (%)"
+  ) +
   labs(
-    x = "", 
+    x = "",
     y = "Haplotype",
-    caption = "Significance: *** p < 0.001; ** p < 0.01; * p < 0.05"  
+    caption = "Bubble size: Frequency (%)\nFill color: Spearman's ρ\nAsterisks: Significance"
   ) +
   theme_minimal() +
   theme(
     axis.text.x = element_text(angle = 45, hjust = 1),
-    plot.caption = element_text(hjust = 0.5, size = 10),  
-    plot.caption.position = "panel"  
+    panel.grid.major = element_line(color = "grey90"),
+    panel.grid.minor = element_blank(),
+    plot.caption = element_text(hjust = 0.5, size = 10)
   )
 
 
 corr_plot
 # Save the plot
-ggsave("corr_plot.tiff", corr_plot,
-       width = 18, height = 12, units = "cm", dpi = 600, compression = "lzw")
+ggsave("corr_plot_corrected.pdf", corr_plot,
+       width = 18, height = 16, units = "cm", dpi = 600)
 
 
