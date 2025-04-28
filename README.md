@@ -8,5 +8,6 @@ Re-align CRT haplotype: [realign-crt-haplotype.py](https://github.com/leenvh/EMA
 Principal component analysis: [analyse_vcf_EMAGEN.py](https://github.com/leenvh/EMAGEN/blob/main/analyse_vcf_EMAGEN.py), [analyse_vcf_project.py](https://github.com/leenvh/EMAGEN/blob/main/analyse_vcf_project.py)<br />
 Haplotype network: [Haplotype_network_script.R](https://github.com/leenvh/EMAGEN/blob/main/Haplotype_network_script.R)<br />
 Haplotype correlation analysis: [Haplotype_corr_test.R](https://github.com/leenvh/EMAGEN/blob/main/Haplotype_corr_test.R) <br />
+Heatmap correlation data: [correlation_plot_heatmap.R](https://github.com/leenvh/EMAGEN/blob/main/correlation_plot_heatmap.R) with [corr_data_output.rds](https://github.com/leenvh/EMAGEN/blob/main/corr_data_output.rds) <br /> 
 Heatmap NGS results: [MakingHeatmapOutline.ipynb](https://github.com/leenvh/EMAGEN/blob/main/MakingHeatmapOutline.ipynb) <br /> 
 Heatmap coverage data: [MakingCoverageHeatmapOutline.ipynb](https://github.com/leenvh/EMAGEN/blob/main/MakingCoverageHeatmapOutline.ipynb) <br /> 
