@@ -52,7 +52,7 @@ corr_plot <- ggplot(dat_cor_long, aes(x = variable, y = haplotype)) +
   geom_text(aes(label = signif), vjust = -0.9, size = 4, color = "black") +  # add significance stars above the bubbles
   scale_fill_gradient2(
     low = "#D73027",   # red
-    mid = "#FFFFBF",   # yellow/white
+    mid = "white",   # yellow/white
     high = "#1A9850",  # green
     midpoint = 0,
     limits = c(-1, 1),
@@ -79,6 +79,6 @@ corr_plot <- ggplot(dat_cor_long, aes(x = variable, y = haplotype)) +
 corr_plot
 # Save the plot
 ggsave("corr_plot_corrected.pdf", corr_plot,
-       width = 18, height = 16, units = "cm", dpi = 600)
+       width = 17.5, height = 17, units = "cm", dpi = 600)
 
 
