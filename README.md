@@ -13,7 +13,9 @@ Scripts can be run in the following order:
 5. [analyse_vcf_EMAGEN.py](https://github.com/leenvh/EMAGEN/blob/main/bioinformatics%20analysis/analyse_vcf_EMAGEN.py), [analyse_vcf_project.py](https://github.com/leenvh/EMAGEN/blob/main/bioinformatics%20analysis/analyse_vcf_project.py): principal component analysis
 6. [Haplotype_network_script.R](https://github.com/leenvh/EMAGEN/blob/main/bioinformatics%20analysis/Haplotype_network_script.R): create haplotype networks
    
-Bed file with genomic locations of amplicons can be found in input folder: [intervals.bed](https://github.com/leenvh/EMAGEN/blob/main/bioinformatics%20analysis/input/intervals.bed)<br />
+Prerequisite files
+- bed file with genomic locations of amplicons can be found in input folder: [intervals.bed](https://github.com/leenvh/EMAGEN/blob/main/bioinformatics%20analysis/input/intervals.bed)<br />
+- Plasmodium falciparum reference file: [Pfalciparum.genome.fasta](https://github.com/leenvh/EMAGEN/blob/main/bioinformatics%20analysis/input/Pfalciparum.genome.fasta)
 
 ## Statistical analysis
 
