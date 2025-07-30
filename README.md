@@ -1,5 +1,8 @@
 
-Analysis of Plasmodium falciparum genomic data from raw fastq files
+This repository contains code used to process, analyze and visualise Plasmodium falciparum genomic data from raw fastq files as described in the manuscript [Convergent Evolution of Artemisinin and Chloroquine Resistance in Ethiopian Plasmodium falciparum Parasites](https://verixiv.org/articles/2-162)
+
+## Bioinformatics analysis
+
 
 Bed file with genomic locations of amplicons: [intervals.bed](https://github.com/leenvh/EMAGEN/blob/main/intervals.bed)<br />
 Mapping and variant calling of fastq files: [batch_pipeline.sh](https://github.com/leenvh/EMAGEN/blob/main/batch_pipeline.sh), [run_variant_calling.sh](https://github.com/leenvh/EMAGEN/blob/main/run_variant_calling.sh)<br />
