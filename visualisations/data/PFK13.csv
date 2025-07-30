@@ -1,0 +1,24 @@
+Mutation,Mutation_Position,Variant_Type,SNP_REPORT,Total isolate with Mutation (n),Total number of Isolate (N),Overall Prevalence (%)
+A675V,675,Mutant,WHO reported Validated,10,572,1.7
+D211G,211,Mixed,Others,8,571,1.4
+D281V,281,Mixed,Others,2,571,0.4
+D89E,89,Mixed,Others,2,571,0.4
+E401Q,401,Mutant,Others,7,571,1.2
+E433D,433,Mixed,Others,10,571,1.8
+G112E,112,Mixed,Others,3,571,0.5
+I352T,352,Mixed,Others,11,571,1.9
+K108E,108,Mutant,Others,17,571,3
+K189N,189,Mixed,Others,16,571,2.8
+K189T,189,Mixed,Others,177,571,31
+K324E,324,Mixed,Others,2,571,0.4
+K55K,55,Mixed,Others,2,571,0.4
+L119L,119,Mixed,Others,23,571,4
+L143V,143,Mutant,Others,10,571,1.8
+L258M,258,Mixed,Others,22,571,3.9
+M157I,157,Mixed,Others,2,571,0.4
+M18I,18,Mixed,Others,34,571,6
+N194N,194,Mixed,Others,9,571,1.6
+P441L,441,Mutant,WHO reported Candidate,6,571,1.1
+R255K,255,Mixed,Others,40,571,7
+R622I,622,Mutant,WHO reported Validated,57,572,10
+S17P,17,Mixed,Others,2,571,0.4
