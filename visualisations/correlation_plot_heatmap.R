@@ -8,7 +8,7 @@ library(ggtext)
 library(scales)  
 
 #  data 
-dat_cor=readRDS("corr_data_output.rds")
+dat_cor=readRDS("data/corr_data_output.rds")
 
 # Convert  the data from wide to long format  and Add a tiered significance column based on p-value thresholds
 dat_cor_long <- dat_cor %>%
@@ -48,7 +48,7 @@ dat_cor_long$haplotype <- factor(dat_cor_long$haplotype, levels = rev(c(
 #  heatmap plot
 
 corr_plot <- ggplot(dat_cor_long, aes(x = variable, y = haplotype)) +
-  geom_point(aes(size = percentage, fill = value), shape = 21, color = "black", stroke = 0.5) +
+  geom_point(aes(size = hap_freq, fill = value), shape = 21, color = "black", stroke = 0.5) +
   geom_text(aes(label = signif), vjust = -0.9, size = 4, color = "black") +  # add significance stars above the bubbles
   scale_fill_gradient2(
     low = "#D73027",   # red
@@ -59,8 +59,9 @@ corr_plot <- ggplot(dat_cor_long, aes(x = variable, y = haplotype)) +
     name = expression(~rho)
   ) +
   scale_size_continuous(
-    range = c(1, 10),   # size of bubbles
-    name = "Haplotype frequency (%)"
+    range = c(3, 10),   # size of bubbles
+    name = "Haplotype frequency (%)",
+    breaks =c(12,25,50,75)
   ) +
   labs(
     x = "",
@@ -69,7 +70,7 @@ corr_plot <- ggplot(dat_cor_long, aes(x = variable, y = haplotype)) +
   ) +
   theme_minimal() +
   theme(
-    axis.text.x = element_text(angle = 45, hjust = 1),
+    axis.text.x = element_text(angle = 90, hjust = 1),
     panel.grid.major = element_line(color = "grey90"),
     panel.grid.minor = element_blank(),
     plot.caption = element_text(hjust = 0.5, size = 10)

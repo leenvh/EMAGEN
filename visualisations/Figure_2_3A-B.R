@@ -26,12 +26,12 @@ library(ggforce)
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 # Load and Read the data
-Africa <-st_read("../Data_used/afric.shp")
-border <-st_read("../Data_used/border.shp")
-Et_region <- st_read("../Data_used/Et_region.shp")
-Haplotype <- read_excel("../Data_used/All_haplotype.xlsx")
-Haplotype_all <- st_read("../Data_used/Haplotype_all_corrected.shp")
-District <- st_read("../Data_used/District")
+Africa <-st_read("../Data/afric.shp")
+border <-st_read("../Data/border.shp")
+Et_region <- st_read("../Data/Et_region.shp")
+Haplotype <- read_excel("../Data/All_haplotype.xlsx")
+Haplotype_all <- st_read("../Data/Haplotype_all_corrected.shp")
+District <- st_read("../Data/District.shp")
 
 # pfcrt combined plot ##########
 # --- 1. Load and Prepare the Data --- 

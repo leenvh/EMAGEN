@@ -1,0 +1,498 @@
+District,Region,Sample_ID,API (Annual Parasite Index: 2020-2022)),API_strata,Geography_cluster,Pfcrt_A220S,Pfcrt_I356T,Pfcrt_K76T,Pfcrt_M74I,Pfcrt_N326S,Pfcrt_N75E,Pfcrt_Q271E,Pfcrt_R371I,Pfmdr1_N86Y,Pfmdr1_Y184F
+Amibara,Afar,ACH21-AA003,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,1,0
+Amibara,Afar,ACH21-AA004,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,0
+Amibara,Afar,ACH21-AA006,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA008,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA010,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA011,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,1,0
+Amibara,Afar,ACH21-AA012,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,0
+Amibara,Afar,ACH21-AA014,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,1,0
+Amibara,Afar,ACH21-AA018,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,1,0
+Amibara,Afar,ACH21-AA022,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA023,34.32611494,Moderate,3,0,0,0,0,0,0,0,0,0,1
+Amibara,Afar,ACH21-AA024,34.32611494,Moderate,3,0,0,0,0,0,0,0,0,0,1
+Amibara,Afar,ACH21-AA025,34.32611494,Moderate,3,1,0,1,0,1,0,1,0,0,1
+Amibara,Afar,ACH21-AA026,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA028,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA029,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA030,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA031,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA032,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA033,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA035,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA036,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA037,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA039,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA041,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA042,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA043,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA044,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA045,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Amibara,Afar,ACH21-AA047,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,1,0
+Amibara,Afar,ACH21-AA048,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,1,0
+Amibara,Afar,ACH21-AA049,34.32611494,Moderate,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB031,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB033,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB037,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB039,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB042,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB046,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB053,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB057,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB067,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB068,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB075,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB077,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB079,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB081,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB089,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BB092,5.484555029,Low,3,1,0,0,0,0,0,1,0,0,1
+Batu/Zeway,Oromia,ACH21-BD005,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BD011,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BD018,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BD027,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BD028,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS003,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS008,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS009,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS012,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS015,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS028,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS048,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS052,5.484555029,Low,3,0,0,0,0,0,0,0,0,0,1
+Batu/Zeway,Oromia,ACH21-BS053,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS070,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS074,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS075,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS076,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS077,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS080,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS081,5.484555029,Low,3,0,0,0,0,0,0,0,0,0,1
+Batu/Zeway,Oromia,ACH21-BS082,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS083,5.484555029,Low,3,1,0,1,1,1,1,1,1,0,1
+Batu/Zeway,Oromia,ACH21-BS084,5.484555029,Low,3,1,0,1,0,0,1,1,1,0,1
+Dera,Amhara,ACH21-DH130,28.60150279,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Dera,Amhara,ACH21-DH132,28.60150279,Moderate,1,1,0,1,1,0,1,1,0,0,0
+Dera,Amhara,ACH21-DH133,28.60150279,Moderate,1,0,0,1,1,1,1,1,1,0,0
+Dera,Amhara,ACH21-DH135,28.60150279,Moderate,1,0,0,0,0,0,0,1,0,0,0
+Dera,Amhara,ACH21-DH137,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,0
+Dera,Amhara,ACH21-DH138,28.60150279,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Dera,Amhara,ACH21-DH141,28.60150279,Moderate,1,1,0,0,0,1,0,0,0,0,1
+Dera,Amhara,ACH21-DH144,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH145,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH147,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH148,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH149,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH159,28.60150279,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Dera,Amhara,ACH21-DH160,28.60150279,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Dera,Amhara,ACH21-DH167,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH180,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH181,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH184,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH185,28.60150279,Moderate,1,1,0,1,1,0,1,1,0,0,1
+Dera,Amhara,ACH21-DH188,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH189,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH193,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH196,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH200,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH201,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH203,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dera,Amhara,ACH21-DH204,28.60150279,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DL005,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DL007,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DL012,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DL014,36.17366913,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Dasenech,SNNPR,ACH21-DL015,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DL017,36.17366913,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Dasenech,SNNPR,ACH21-DL019,36.17366913,Moderate,2,1,1,1,1,0,1,1,1,1,1
+Dasenech,SNNPR,ACH21-DL021,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DL022,36.17366913,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Dasenech,SNNPR,ACH21-DL064,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DL067,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DL069,36.17366913,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Dasenech,SNNPR,ACH21-DL086,36.17366913,Moderate,2,0,0,1,1,0,1,1,1,0,0
+Dasenech,SNNPR,ACH21-DL089,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DO001,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DO003,36.17366913,Moderate,2,1,1,1,1,0,1,1,1,0,0
+Dasenech,SNNPR,ACH21-DO004,36.17366913,Moderate,2,1,1,1,1,0,1,1,1,0,0
+Dasenech,SNNPR,ACH21-DO005,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DO006,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,0
+Dasenech,SNNPR,ACH21-DO007,36.17366913,Moderate,2,1,1,1,1,0,1,1,1,1,1
+Dasenech,SNNPR,ACH21-DO008,36.17366913,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Dasenech,SNNPR,ACH21-DO009,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DO011,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DO012,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DO019,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DO021,36.17366913,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Dasenech,SNNPR,ACH21-DO022,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DO023,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DO151,36.17366913,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Dasenech,SNNPR,ACH21-DO152,36.17366913,Moderate,2,1,1,0,0,0,0,1,1,0,0
+Dasenech,SNNPR,ACH21-DO154,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DO156,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Dasenech,SNNPR,ACH21-DO165,36.17366913,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB003,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB004,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB006,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB008,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB009,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB011,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB012,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB014,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB016,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB021,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB023,1.040792159,Low,3,1,0,1,1,0,1,0,0,0,1
+Fedis,Oromia,ACH21-FB024,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB026,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB027,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB028,1.040792159,Low,3,0,0,0,0,0,0,0,0,0,1
+Fedis,Oromia,ACH21-FB029,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB031,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB032,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB036,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB038,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB040,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB042,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB043,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB044,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB047,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB049,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB050,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB051,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB053,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB057,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB059,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB061,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB063,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB064,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB067,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB071,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB072,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB077,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB078,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB079,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB080,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB082,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB084,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB085,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fedis,Oromia,ACH21-FB088,1.040792159,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM011,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM012,8.671991065,Low,3,0,0,0,0,0,0,0,0,0,1
+Fentale,Oromia,ACH21-FM014,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM015,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM023,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM024,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM025,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM026,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM027,8.671991065,Low,3,0,0,1,1,0,1,1,1,0,0
+Fentale,Oromia,ACH21-FM033,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM034,8.671991065,Low,3,1,0,1,0,1,0,1,0,0,0
+Fentale,Oromia,ACH21-FM040,8.671991065,Low,3,1,0,1,0,0,0,0,0,0,0
+Fentale,Oromia,ACH21-FM044,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM046,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,0
+Fentale,Oromia,ACH21-FM049,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM050,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM051,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM052,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM055,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,0
+Fentale,Oromia,ACH21-FM058,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM059,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM060,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,0
+Fentale,Oromia,ACH21-FM062,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM064,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,0
+Fentale,Oromia,ACH21-FM066,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,0
+Fentale,Oromia,ACH21-FM069,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM070,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM074,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM079,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,0
+Fentale,Oromia,ACH21-FM080,8.671991065,Low,3,1,0,1,1,0,1,1,1,0,1
+Fentale,Oromia,ACH21-FM081,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,0
+Fentale,Oromia,ACH21-FM083,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM086,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM088,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM089,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM092,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,0
+Fentale,Oromia,ACH21-FM094,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM095,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM096,8.671991065,Low,3,1,0,1,1,1,1,1,1,0,1
+Fentale,Oromia,ACH21-FM097,8.671991065,Low,3,0,0,0,0,0,0,0,0,0,1
+Fentale,Oromia,ACH21-FM098,8.671991065,Low,3,0,0,0,0,0,0,0,1,0,1
+Gambella zuria,Gambella,ACH21-GA008,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GA009,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GA024,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GA026,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GA027,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GA028,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GA034,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GA036,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GB004,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GB022,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GB061,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GB069,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GB089,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GB090,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GB116,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH21-GB120,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU003,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU007,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU008,82.20092735,High,1,1,0,1,1,1,1,1,1,0,1
+Guba,Benishangul-Gumuz,ACH21-GU010,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU016,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU019,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU020,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU203,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU204,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU206,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU207,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU209,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU210,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU213,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU214,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU215,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU216,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU218,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU222,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU225,82.20092735,High,1,1,0,1,1,0,1,1,1,0,1
+Guba,Benishangul-Gumuz,ACH21-GU227,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU228,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH21-GU233,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+K. Humera,Tigray,ACH21-HH001,14.20349492,Moderate,1,0,0,0,0,0,0,0,0,0,1
+K. Humera,Tigray,ACH21-HH004,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH005,14.20349492,Moderate,1,0,0,0,0,0,0,0,0,0,1
+K. Humera,Tigray,ACH21-HH006,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH007,14.20349492,Moderate,1,0,0,0,0,0,0,0,0,0,1
+K. Humera,Tigray,ACH21-HH008,14.20349492,Moderate,1,1,0,1,1,0,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH009,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH011,14.20349492,Moderate,1,1,0,1,1,1,1,0,1,0,1
+K. Humera,Tigray,ACH21-HH013,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH015,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,0
+K. Humera,Tigray,ACH21-HH016,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH017,14.20349492,Moderate,1,0,0,0,0,0,0,0,0,0,1
+K. Humera,Tigray,ACH21-HH018,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,0
+K. Humera,Tigray,ACH21-HH019,14.20349492,Moderate,1,1,0,1,1,0,1,1,1,0,0
+K. Humera,Tigray,ACH21-HH020,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH021,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH023,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH024,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,0
+K. Humera,Tigray,ACH21-HH025,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH026,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH027,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH028,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH029,14.20349492,Moderate,1,0,0,0,0,0,0,0,0,0,1
+K. Humera,Tigray,ACH21-HH030,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH031,14.20349492,Moderate,1,0,0,0,0,0,0,0,0,0,1
+K. Humera,Tigray,ACH21-HH033,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH034,14.20349492,Moderate,1,0,0,0,0,0,0,0,0,0,1
+K. Humera,Tigray,ACH21-HH035,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH036,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH037,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH038,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH039,14.20349492,Moderate,1,0,0,0,0,0,0,0,0,0,1
+K. Humera,Tigray,ACH21-HH040,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,0
+K. Humera,Tigray,ACH21-HH041,14.20349492,Moderate,1,0,0,0,0,0,0,0,0,0,1
+K. Humera,Tigray,ACH21-HH042,14.20349492,Moderate,1,0,0,0,0,0,0,0,0,0,1
+K. Humera,Tigray,ACH21-HH043,14.20349492,Moderate,1,0,0,0,0,0,0,0,0,0,1
+K. Humera,Tigray,ACH21-HH044,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+K. Humera,Tigray,ACH21-HH046,14.20349492,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MA005,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MA010,44.49146414,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Mizan,SWEPRS,ACH21-MA011,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MA012,44.49146414,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Mizan,SWEPRS,ACH21-MA017,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MA020,44.49146414,Moderate,2,0,0,0,0,0,0,0,1,0,1
+Mizan,SWEPRS,ACH21-MA023,44.49146414,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Mizan,SWEPRS,ACH21-MA026,44.49146414,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Mizan,SWEPRS,ACH21-MA027,44.49146414,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Mizan,SWEPRS,ACH21-MA030,44.49146414,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Mizan,SWEPRS,ACH21-MA031,44.49146414,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Mizan,SWEPRS,ACH21-MA032,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MA033,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MA036,44.49146414,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Mizan,SWEPRS,ACH21-MA039,44.49146414,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Mizan,SWEPRS,ACH21-MA040,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Metema,Amhara,ACH21-MK020,66.00905078,High,1,1,0,1,1,1,1,1,1,0,1
+Metema,Amhara,ACH21-MK028,66.00905078,High,1,1,0,1,1,1,1,1,1,0,1
+Metema,Amhara,ACH21-MK031,66.00905078,High,1,1,0,1,1,1,1,1,1,0,1
+Metema,Amhara,ACH21-MK032,66.00905078,High,1,1,0,1,1,1,1,1,1,0,1
+Metema,Amhara,ACH21-MK037,66.00905078,High,1,1,0,1,1,1,1,1,1,0,1
+Metema,Amhara,ACH21-MK038,66.00905078,High,1,1,0,1,1,1,1,1,1,0,0
+Metema,Amhara,ACH21-MK054,66.00905078,High,1,1,0,1,1,1,1,1,1,0,0
+Metema,Amhara,ACH21-MK055,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH21-MK057,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH21-MK061,66.00905078,High,1,1,0,1,1,1,1,1,1,0,1
+Metema,Amhara,ACH21-MK076,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH21-MK080,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH21-MK101,66.00905078,High,1,1,0,1,1,1,1,1,1,0,0
+Metema,Amhara,ACH21-MK102,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH21-MK103,66.00905078,High,1,1,0,1,1,1,1,1,1,0,1
+Metema,Amhara,ACH21-MK105,66.00905078,High,1,1,0,1,1,1,1,1,1,0,1
+Metema,Amhara,ACH21-MK118,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Mizan,SWEPRS,ACH21-MM001,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM002,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM004,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM005,44.49146414,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Mizan,SWEPRS,ACH21-MM009,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM010,44.49146414,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Mizan,SWEPRS,ACH21-MM012,44.49146414,Moderate,2,0,0,0,0,0,0,0,0,0,1
+Mizan,SWEPRS,ACH21-MM014,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM016,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM017,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM018,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM021,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM033,44.49146414,Moderate,2,1,0,1,1,0,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM034,44.49146414,Moderate,2,0,0,1,1,0,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM036,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM037,44.49146414,Moderate,2,1,0,1,1,0,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM038,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM039,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM040,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM041,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM042,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM043,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Mizan,SWEPRS,ACH21-MM044,44.49146414,Moderate,2,1,0,1,1,1,1,1,1,0,1
+Metema,Amhara,ACH21-MY281,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH21-MY282,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH21-MY288,66.00905078,High,1,1,0,1,1,1,1,1,1,0,1
+Metema,Amhara,ACH21-MY291,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH21-MY292,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH21-MY293,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH21-MY296,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH21-MY297,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH21-PF001,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH21-PF003,34.90323147,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Pawe,Benishangul-Gumuz,ACH21-PF005,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH21-PF006,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH21-PF008,34.90323147,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Pawe,Benishangul-Gumuz,ACH21-PF011,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH21-PM007,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH003,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH044,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH047,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH065,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH069,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH102,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH103,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH120,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH122,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH137,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH142,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH155,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH156,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH160,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH169,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH185,123.958122,High,2,1,0,1,1,0,1,1,1,0,1
+Salamago,SNNPR,ACH21-SH235,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH237,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH238,123.958122,High,2,1,0,1,1,0,1,1,1,0,0
+Salamago,SNNPR,ACH21-SH241,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH250,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH260,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH273,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH285,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH287,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SH295,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SK002,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SK017,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SK065,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Salamago,SNNPR,ACH21-SK070,123.958122,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-ET008,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GA003,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GA005,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GA010,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GA015,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GA016,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GA017,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GA018,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GA019,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GA020,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GB006,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GB007,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GB008,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GB016,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GB020,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GD001,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GD003,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Gambella zuria,Gambella,ACH22-GD005,71.06259124,High,2,1,0,1,1,0,1,1,1,0,1
+Gambella zuria,Gambella,ACH22-GD007,71.06259124,High,2,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH22-GU004,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH22-GU010,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH22-GU014,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Guba,Benishangul-Gumuz,ACH22-GU019,82.20092735,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH22-MK001,66.00905078,High,1,1,0,1,1,1,1,1,1,0,1
+Metema,Amhara,ACH22-MK005,66.00905078,High,1,1,0,1,1,1,1,1,1,0,1
+Metema,Amhara,ACH22-MK007,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH22-MK008,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH22-MK010,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH22-MK018,66.00905078,High,1,1,0,1,1,1,1,1,1,0,0
+Metema,Amhara,ACH22-MK020,66.00905078,High,1,1,0,1,1,1,1,1,1,0,0
+Metema,Amhara,ACH22-MY006,66.00905078,High,1,1,0,1,1,1,1,1,1,0,1
+Metema,Amhara,ACH22-MY007,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Metema,Amhara,ACH22-MY015,66.00905078,High,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PF004,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PF009,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PF011,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PF012,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PF016,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PF017,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PF018,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PF019,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PK003,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PK004,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PK008,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PK012,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PK015,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PK016,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PK017,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PK020,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PK021,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Pawe,Benishangul-Gumuz,ACH22-PM009,34.90323147,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Gondar,Amhara,GMTP001,48.6371118,Moderate,1,0,0,0,0,1,0,0,0,0,1
+Gondar,Amhara,GMTP002,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP003,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP004,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP007,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP008,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP009,48.6371118,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Gondar,Amhara,GMTP011,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP013,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP015,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP016,48.6371118,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Gondar,Amhara,GMTP017,48.6371118,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Gondar,Amhara,GMTP018,48.6371118,Moderate,1,1,0,0,0,0,0,0,0,0,1
+Gondar,Amhara,GMTP021,48.6371118,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Gondar,Amhara,GMTP022,48.6371118,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Gondar,Amhara,GMTP024,48.6371118,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Gondar,Amhara,GMTP026,48.6371118,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Gondar,Amhara,GMTP027,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP030,48.6371118,Moderate,1,0,0,1,1,1,1,0,1,0,1
+Gondar,Amhara,GMTP032,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP034,48.6371118,Moderate,1,1,0,0,0,0,0,1,0,0,0
+Gondar,Amhara,GMTP035,48.6371118,Moderate,1,1,0,0,0,0,0,0,1,0,0
+Gondar,Amhara,GMTP037,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP041,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP044,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP045,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP048,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP050,48.6371118,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Gondar,Amhara,GMTP051,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP052,48.6371118,Moderate,1,1,0,1,1,1,1,1,1,0,1
+Gondar,Amhara,GMTP053,48.6371118,Moderate,1,0,0,0,0,0,0,0,0,0,1
+Tanqua Abergelle,Tigray,TG01-001,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
+Tanqua Abergelle,Tigray,TG01-002,6.581166558,Low,1,0,0,0,0,0,0,0,0,0,1
+Tanqua Abergelle,Tigray,TG01-003,6.581166558,Low,1,0,0,0,0,0,0,0,0,0,1
+Tanqua Abergelle,Tigray,TG01-005,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
+Tanqua Abergelle,Tigray,TG01-008,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
+Tanqua Abergelle,Tigray,TG01-009,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
+Tanqua Abergelle,Tigray,TG01-010,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
+Tanqua Abergelle,Tigray,TG01-011,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
+Tanqua Abergelle,Tigray,TG01-012,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
+Tanqua Abergelle,Tigray,TG01-016,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
+Tanqua Abergelle,Tigray,TG01-017,6.581166558,Low,1,0,0,0,0,0,0,0,0,0,1
+Tanqua Abergelle,Tigray,TG01-018,6.581166558,Low,1,0,0,0,0,0,0,0,0,0,1
+Tanqua Abergelle,Tigray,TG01-019,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
+Tanqua Abergelle,Tigray,TG01-020,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
+Tanqua Abergelle,Tigray,TG01-021,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
+Tanqua Abergelle,Tigray,TG01-022,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
+Tanqua Abergelle,Tigray,TG01-023,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
+Tanqua Abergelle,Tigray,TG01-024,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
+Tanqua Abergelle,Tigray,TG01-028,6.581166558,Low,1,1,0,1,1,1,1,1,1,0,1
