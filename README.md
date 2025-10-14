@@ -20,6 +20,7 @@ Prerequisite files
 ## Statistical analysis
 
 [Haplotype_corr_test.R](https://github.com/leenvh/EMAGEN/blob/main/Haplotype_corr_test.R): haplotype correlation analysis
+[coocurance_analysis.R](https://github.com/leenvh/EMAGEN/blob/main/statistical%20analysis/coocurance_analysis.R): co-occurence analysis
 
 
 ## Visualisations
