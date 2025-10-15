@@ -19,7 +19,8 @@ Prerequisite files
 
 ## Statistical analysis
 
-[Haplotype_corr_test.R](https://github.com/leenvh/EMAGEN/blob/main/Haplotype_corr_test.R): haplotype correlation analysis
+[Haplotype_corr_test.R](https://github.com/leenvh/EMAGEN/blob/main/Haplotype_corr_test.R): haplotype correlation analysis<br />
+[coocurance_analysis.R](https://github.com/leenvh/EMAGEN/blob/main/statistical%20analysis/coocurance_analysis.R): co-occurence analysis
 
 
 ## Visualisations
@@ -31,7 +32,8 @@ Graphs were made using R scripts and Jupyter notebook files.
 - Figure 3C: [Upset_intersection_Plot.ipynb](https://github.com/leenvh/EMAGEN/blob/main/visualisations/Upset_intersection_Plot.ipynb)
 - Figure 3D: [Co_occurrence_count_analysis.ipynb](https://github.com/leenvh/EMAGEN/blob/main/visualisations/Co_occurrence_count_analysis.ipynb)
 - Figure 4 graphs are direct outputs from scripts in bioinformatics analysis folder
-- Supp figures:
-  * Haplotype correlation heatmap: [correlation_plot_heatmap.R](https://github.com/leenvh/EMAGEN/blob/main/visualisations/correlation_plot_heatmap.R)
+- Supplementary or Extended Data figures:
+  * Haplotype correlation heatmap: [correlation_plot_heatmap.R](https://github.com/leenvh/EMAGEN/blob/main/visualisations/correlation_plot_heatmap.R)<br />
+  * Co-occurence heatmap: [Co_occurence_plot_heatmap.R](https://github.com/leenvh/EMAGEN/blob/main/visualisations/Co_occurence_plot_heatmap.R)<br />
   * Heatmap NGS results: [MakingHeatmapOutline.ipynb](https://github.com/leenvh/EMAGEN/blob/main/visualisations/MakingHeatmapOutline.ipynb) <br />
   * Heatmap coverage data: [MakingCoverageHeatmapOutline.ipynb](https://github.com/leenvh/EMAGEN/blob/main/visualisations/MakingCoverageHeatmapOutline.ipynb) <br /> 
