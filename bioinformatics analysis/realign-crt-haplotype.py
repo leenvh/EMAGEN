@@ -6,6 +6,9 @@ from typing import List
 from collections import defaultdict, Counter
 import argparse
 
+#Example:
+#python scripts/realign-crt-haplotype.py --vcf genotyped.ann.vcf.gz --ref Pfalciparum.genome.fasta --gff Pfalciparum.genome.modified.new.gff3 --out genotyped_v2.vcf 
+
 parser = argparse.ArgumentParser()
 parser.add_argument('--vcf', required=True, help='VCF file')
 parser.add_argument('--ref', required=True, help='Fasta file')

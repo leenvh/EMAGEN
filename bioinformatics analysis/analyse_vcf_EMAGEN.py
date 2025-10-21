@@ -23,6 +23,9 @@ from matplotlib.colors import LinearSegmentedColormap
 parser = argparse.ArgumentParser(description='Analyse VCF file')
 parser.add_argument('vcf', type=str, help='VCF file')
 
+#Example
+#python /scripts/analyse_vcf_EMAGEN.py genotyped_merged.ann.vcf.gz
+
 args = parser.parse_args()
 
 callset = allel.read_vcf(args.vcf)
