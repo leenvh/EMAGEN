@@ -1,9 +1,12 @@
 
 This repository contains code used to process, analyze and visualise Plasmodium falciparum genomic data from raw fastq files as described in the manuscript [Convergent Evolution of Artemisinin and Chloroquine Resistance in Ethiopian Plasmodium falciparum Parasites](https://verixiv.org/articles/2-162)
 
+Raw sequencing data used in this analysis can be downloaded from [ENA](https://www.ebi.ac.uk/ena/browser/view/PRJEB87415)
+
 ## Bioinformatics analysis
 
-Bash scripts scripts rely on functioning installations of bwa, python, samtools, gatk4, bcftools, and snpEff.
+Bash scripts scripts rely on functioning installations of bwa, python, samtools, gatk, bcftools, and snpEff.
+The analysis was done with the following versions: bwa version 0.7.18-r1243, python version 3.12.7, samtools version 1.22.1, gatk v4.1.4.1, bcftools version 1.22, snpEff version 5.3a
 
 Scripts can be run in the following order:
 1. [batch_pipeline.sh](https://github.com/leenvh/EMAGEN/blob/main/bioinformatics%20analysis/batch_pipeline.sh): mapping and variant calling of fastq files
