@@ -4,10 +4,11 @@ library(RColorBrewer)
 library(msa)
 library(rstudioapi)
 library(dplyr)
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 ################ KELCH13 ##########
-seqs <- readDNAStringSet("Pfk13_consensus_aligned.fa")
-metadata<- read.csv("District_and_Sample_ID_Metadata_oct11.csv")
+seqs <- readDNAStringSet("input/Pfk13_consensus_aligned.fa")
+metadata<- read.csv("input/District_and_Sample_ID_Metadata_oct11.csv")
 
 
 
@@ -75,14 +76,15 @@ colors <- colorRampPalette(brewer.pal(8, "Accent"))(15)
 
 png("K13_haplotype_network.png" , units = "in" ,width = 12,height = 7  , res = 600)
 plot(net, size = sz_filtered, scale.ratio = 200, cex = 0.1 , pie = regions_filtered, threshold = 0, col.link = "black", bg = colors , show.mutation = 0
-)legend("topright", colnames(regions_filtered), col=colors, pch=20, cex=1.6, pt.cex=3)
+)
+legend("topright", colnames(regions_filtered), col=colors, pch=20, cex=1.6, pt.cex=3)
 
 dev.off()
 
 ##########CRT#############
 
-seqs <- readDNAStringSet("C:/Users/Fitsum/Desktop/Ale.Haplotype/New folder/Files for running R code/Files for running R code/Pfcrt_consensus_aligned.fa")
-metadata<- read.csv("C:/Users/Fitsum/Desktop/Ale.Haplotype/New folder/Files for running R code/Files for running R code/District_and_Sample_ID_Metadata_oct11.csv")
+seqs <- readDNAStringSet("input/Pfcrt_consensus_aligned.fa")
+metadata<- read.csv("input/District_and_Sample_ID_Metadata_oct11.csv")
 
 # Filter
 dna_matrix <- as.matrix(seqs)
