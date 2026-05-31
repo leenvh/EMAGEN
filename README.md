@@ -11,6 +11,7 @@ Scripts can be run in the following order:
 4. [realign-crt-haplotype.py](https://github.com/leenvh/EMAGEN/blob/main/bioinformatics%20analysis/realign-crt-haplotype.py): re-align CRT haplotype
 5. [analyse_vcf_EMAGEN.py](https://github.com/leenvh/EMAGEN/blob/main/bioinformatics%20analysis/analyse_vcf_EMAGEN.py), [analyse_vcf_project.py](https://github.com/leenvh/EMAGEN/blob/main/bioinformatics%20analysis/analyse_vcf_project.py): principal component analysis
 6. [Haplotype_network_script.R](https://github.com/leenvh/EMAGEN/blob/main/bioinformatics%20analysis/Haplotype_network_script.R): create haplotype networks
+7. [IBD_networks.R](https://github.com/leenvh/EMAGEN/blob/main/bioinformatics%20analysis/IBD_networks.R): create IBD networks
    
 Prerequisite files
 - bed file with genomic locations of amplicons can be found in input folder: [intervals.bed](https://github.com/leenvh/EMAGEN/blob/main/bioinformatics%20analysis/input/intervals.bed)<br />
