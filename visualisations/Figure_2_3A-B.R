@@ -26,12 +26,12 @@ library(ggforce)
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 # Load and Read the data
-Africa <-st_read("../Data/afric.shp")
-border <-st_read("../Data/border.shp")
-Et_region <- st_read("../Data/Et_region.shp")
-Haplotype <- read_excel("../Data/All_haplotype.xlsx")
-Haplotype_all <- st_read("../Data/Haplotype_all_corrected.shp")
-District <- st_read("../Data/District.shp")
+Africa <-st_read("data/afric.shp")
+border <-st_read("data/border.shp")
+Et_region <- st_read("data/Et_region.shp")
+Haplotype <- read_excel("data/All_haplotype.xlsx")
+Haplotype_all <- st_read("data/Haplotype_all_corrected.shp")
+District <- st_read("data//District.shp")
 
 # pfcrt combined plot ##########
 # --- 1. Load and Prepare the Data --- 
@@ -1316,7 +1316,7 @@ ggsave(
 colors_pfk13 <- c("R622I" = "#993366", "P441L" = "#730099", "A675V" = "#6b66c6", "A578S" = "#ffa345", "Wildtype" = "#e4b4e4")
 
 # Load district shapefile and filter for specific districts
-District <- st_read("../Data_used/District.shp")
+District <- st_read("data/District.shp")
 
 # Define zoom limits for the map
 min_longitude <- 32.35396
@@ -1427,8 +1427,8 @@ base_map <- ggplot() +
     panel.background = element_rect(fill = "white", color = NA),
     axis.title.x = element_blank(),
     axis.title.y = element_blank(),
-    axis.text = element_blank(),
-    axis.ticks = element_blank()
+    axis.text = element_text(size = 8, color = "gray20"),   
+    axis.ticks = element_line(color = "gray40") 
   ) +
   coord_sf(
     xlim = c(min_longitude, max_longitude), 
